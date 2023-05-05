@@ -2,7 +2,9 @@
 🌑Me estoy especializando de manera autodidacta y constante<br>🚀Me encanta resolver problemas que se me presentan en el día a día<br>🌎Me mantengo al tanto de las nuevas herramientas y tecnologías<br>✨Soy un apasionado en lo que hago "💻Programación y desarrollo web"<br>🌱Fan numero 1 del mate🧉 y la naturaleza<br><br><br>
 
 ## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/michael766s) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Michael718s) [![LinkedIn]
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/michael766s) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Michael718s)
+[![LinkedIn](https://img.shields.io/badge/linkedin-4BC73.svg?logo=linkedin&logoColor=while)](https://www.linkedin.com/in/michael-santucho-0a8876256/)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/MichaelAgus76) 
 
 # 💻 Tech Stack:
